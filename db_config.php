@@ -1,7 +1,11 @@
 <?php
 	$dbHost = "localhost";
 	$dbDatabase = "findex";
-	$dbPasswrod = "";
+	$dbpswd = "";
 	$dbUser = "root";
-	$mysqli = new mysqli($dbHost, $dbUser, $dbPasswrod, $dbDatabase);
+	$mysqli = new mysqli($dbHost, $dbUser, $dbPswd, $dbDatabase);
 ?>
+
+
+
+
